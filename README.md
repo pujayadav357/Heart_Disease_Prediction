@@ -6,12 +6,6 @@ The model mimics the learning process of the human brain by using interconnected
 
 ---
 
-## 👩‍💻 Built By
-
-**Puja Yadav**  
-Aspiring deep learning practitioner passionate about applying AI to solve real-world health challenges.
-
----
 
 ## 🧠 About the Model
 
@@ -40,11 +34,8 @@ Aspiring deep learning practitioner passionate about applying AI to solve real-w
 
 - **Target column**: Indicates the presence (`1`) or absence (`0`) of heart disease.
 
----
+- ## 👩‍💻 Built By
 
-## 🚀 How to Run
+**Puja Yadav**  
+Aspiring deep learning practitioner passionate about applying AI to solve real-world health challenges.
 
-1️⃣ **Clone the repository:**
-```bash
-git clone https://github.com/your-username/heart-disease-prediction-ann.git
-cd heart-disease-prediction-ann
